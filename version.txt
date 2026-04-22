@@ -1,3 +1,3 @@
 1.1
-https://tu-enlace-de-descarga.com/C3V_TOOLS.dll
-Se agregó el sistema de actualizaciones automáticas y mejoras visuales.
+https://drive.google.com/uc?export=download&id=1UsbYNNnkFExo2cgWpa8-Wt9Wf1JJoZDF
+Novedades: Sistema de actualización automática implementado con éxito.
