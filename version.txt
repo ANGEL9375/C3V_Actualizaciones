@@ -1,5 +1,3 @@
 1.4
 https://drive.google.com/uc?export=download&id=11KMVxGKzZCsoT4NLuYkuGxOf0u6DVfIX
 Gestión Inteligente de propietarios y Colindantes.
-Sistema de Rótulos Personalizados.
-formato a2 para planos rurales.
